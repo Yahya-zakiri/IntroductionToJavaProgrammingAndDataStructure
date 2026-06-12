@@ -3,8 +3,6 @@
 // 7.2.6
 // practice 1
 
-package Chapter_7;
-
 import java.util.Scanner;
 
 public class StoringInputArray {

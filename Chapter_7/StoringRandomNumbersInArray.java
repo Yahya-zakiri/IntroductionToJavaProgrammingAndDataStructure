@@ -3,8 +3,6 @@
 // 7.2.6
 // practice 2
 
-package Chapter_7;
-
 public class StoringRandomNumbersInArray {
     public static void main(String[] args) {
         double numbers[] = new double[100];
